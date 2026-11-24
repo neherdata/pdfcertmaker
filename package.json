@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@pdfme/common": "^2.1.0",
+    "@pdfme/common": "^5.5.10",
     "@pdfme/generator": "^6.2.8",
     "@pdfme/ui": "^6.2.8",
     "@testing-library/jest-dom": "^5.17.0",
